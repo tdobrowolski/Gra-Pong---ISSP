@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/obrazy">
+        <file>tlo.png</file>
+    </qresource>
+</RCC>
